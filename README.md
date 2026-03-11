@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Squi SE! 👋
 
-<!--
-**squi7/squi7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Security Researcher and Bug Hunter with a passion for finding vulnerabilities and improving system resilience.
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack & Skills
+- **Web Security:** Broken Access Control, XSS, SSRF, SQL Injection.
+- **API Security:** REST API fuzzing, JWT Authentication bypass, Rate Limiting.
+- **Tools:** Burp Suite, Nuclei, Nmap, Subfinder, FFuf.
+- **Languages:** Python (Automation), Bash (Scripting).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📈 Current Focus
+- Automating reconnaissance workflows to identify potential attack vectors.
+- Deepening my knowledge in Cloud Security (AWS/GCP).
+- Contributing to Open Source security tools.
+
+### 🏆 Stats & Platforms
+- **HackerOne:** [https://hackerone.com/squi7]
+- **Bugcrowd:** [Link ke profilmu, kalau ada]
+- **Public Writeups:** [Link ke blog/repositori tempat kamu naruh tulisan teknis]
+
+---
+*I am always open to discussing security research or collaborative opportunities. Feel free to reach out via [Email Anonim kamu] or [Handle Telegram/Keybase].*
